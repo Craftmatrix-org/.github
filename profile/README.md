@@ -1,12 +1,16 @@
-## Hi there 👋
+# Craftmatrix.org
+A project that aims for diversity, and one ecosystem across the entire domain.
 
-<!--
+## Goal
+- To showcase my capabilities and passion.
+- To expand my knowledge, and expertise.
+- To build a community of users soon.
 
-**Here are some ideas to get you started:**
+## Principle
+- no AI during the development.
+- minimalist.
+- open-source as possible, for transparency.
+- no forks, everything must be from scratch.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Why No AI During the Development?
+- Because I want to learn to the fullest, and more hands-on.
