@@ -7,7 +7,7 @@ A project that aims for diversity, and one ecosystem across the entire domain.
 - To build a community of users soon.
 
 ## Principle
-- no AI during the development.
+- no AI during the development, Only uses AI for elaborated docs only not vibe coding it.
 - minimalist.
 - open-source as possible, for transparency.
 - no forks, everything must be from scratch.
