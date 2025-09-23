@@ -1,16 +1,6 @@
-# Craftmatrix.org
-A project that aims for diversity, and one ecosystem across the entire domain.
-
-## Goal
-- To showcase my capabilities and passion.
-- To expand my knowledge, and expertise.
-- To build a community of users soon.
-
-## Principle
-- no AI during the development, Only uses AI for elaborated docs only not vibe coding it.
-- minimalist.
-- open-source as possible, for transparency.
-- no forks, everything must be from scratch.
-
-## Why No AI During the Development?
-- Because I want to learn to the fullest, and more hands-on.
+# Craftmatrix-org
+- Hands-on coding: All software is written by us; AI is used only to learn and improve.
+- Quality matters: We strive to build reliable and maintainable software.
+- Open & transparent: Sharing our work whenever possible.
+- Learning by doing: Building from scratch to grow our skills and understanding.
+- Continuous improvement: Always aiming to serve users better with each project.
